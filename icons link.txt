@@ -1,0 +1,9 @@
+dashboard : <a target="_blank" href="https://icons8.com/icon/PYxVeY6IEhsw/laptop-metrics">Dashboard</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+live tracking : <i class="fa-solid fa-satellite-dish"></i>
+
+
+vehicle managaement : <a target="_blank" href="https://icons8.com/icon/v0nlUk7kSQnd/driver-license">Driver License</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+
+driver management : <a target="_blank" href="https://icons8.com/icon/NJAISbmLlEmA/driver">Driver</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
