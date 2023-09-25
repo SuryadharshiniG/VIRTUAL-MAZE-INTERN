@@ -55,8 +55,7 @@ a {
 }
 
 /* img {
-    display: flex;
-    width: min-content;
+    float: right;
 } */
 
 h1 {
@@ -310,11 +309,16 @@ main .insights h2 {
 }
 
 main .insights .progress {
-    position: relative;
-    width: 56px;
-    height: 56px;
-    border-radius: 50%;
+    float: right;
+    margin-top: 5px;
 }
+
+main .insights .image {
+    float: right;
+    /* padding-bottom: 5px; */
+}
+
+
 
 main .insights small {
     margin-top: 1.0rem;
